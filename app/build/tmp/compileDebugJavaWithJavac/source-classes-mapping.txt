@@ -1,0 +1,79 @@
+com/hec/bluetooth/Bean/ChatInfo.java
+ com.hec.bluetooth.Bean.ChatInfo
+com/hec/bluetooth/BuildConfig.java
+ com.hec.bluetooth.BuildConfig
+com/hec/bluetooth/Util/BluetoothUtil.java
+ com.hec.bluetooth.Util.BluetoothUtil
+com/hec/bluetooth/Receiver/BluetoothStateBroadcastReceive.java
+ com.hec.bluetooth.Receiver.BluetoothStateBroadcastReceive
+com/hec/bluetooth/Adapter/RecyclerChatAdapter.java
+ com.hec.bluetooth.Adapter.RecyclerChatAdapter
+ com.hec.bluetooth.Adapter.RecyclerChatAdapter$1
+ com.hec.bluetooth.Adapter.RecyclerChatAdapter$2
+com/hec/bluetooth/Fragment/HomeFragment.java
+ com.hec.bluetooth.Fragment.HomeFragment
+ com.hec.bluetooth.Fragment.HomeFragment$1
+ com.hec.bluetooth.Fragment.HomeFragment$2
+ com.hec.bluetooth.Fragment.HomeFragment$2$1
+ com.hec.bluetooth.Fragment.HomeFragment$3
+ com.hec.bluetooth.Fragment.HomeFragment$4
+ com.hec.bluetooth.Fragment.HomeFragment$5
+com/hec/bluetooth/Adapter/ViewPagerAdapter.java
+ com.hec.bluetooth.Adapter.ViewPagerAdapter
+com/hec/bluetooth/Bean/ChatRecord.java
+ com.hec.bluetooth.Bean.ChatRecord
+com/hec/bluetooth/Activity/MainActivity.java
+ com.hec.bluetooth.Activity.MainActivity
+ com.hec.bluetooth.Activity.MainActivity$1
+ com.hec.bluetooth.Activity.MainActivity$2
+ com.hec.bluetooth.Activity.MainActivity$3
+com/hec/bluetooth/Adapter/ItemBtListAdapter.java
+ com.hec.bluetooth.Adapter.ItemBtListAdapter
+ com.hec.bluetooth.Adapter.ItemBtListAdapter$ViewHolder
+com/hec/bluetooth/Util/XPermissionUtil.java
+ com.hec.bluetooth.Util.XPermissionUtil
+ com.hec.bluetooth.Util.XPermissionUtil$OnPermissionListener
+com/hec/bluetooth/Util/FileUtils.java
+ com.hec.bluetooth.Util.FileUtils
+com/hec/bluetooth/Fragment/SettingFragment.java
+ com.hec.bluetooth.Fragment.SettingFragment
+ com.hec.bluetooth.Fragment.SettingFragment$1
+com/hec/bluetooth/Bean/ChatLeftHolder.java
+ com.hec.bluetooth.Bean.ChatLeftHolder
+com/hec/bluetooth/Bean/ChatFileRightHolder.java
+ com.hec.bluetooth.Bean.ChatFileRightHolder
+com/hec/bluetooth/Util/PermissionUtil.java
+ com.hec.bluetooth.Util.PermissionUtil
+com/hec/bluetooth/Util/OpenFileUtil.java
+ com.hec.bluetooth.Util.OpenFileUtil
+com/hec/bluetooth/Bean/ChatRightHolder.java
+ com.hec.bluetooth.Bean.ChatRightHolder
+com/hec/bluetooth/SQLite/DBManager.java
+ com.hec.bluetooth.SQLite.DBManager
+com/hec/bluetooth/Bean/ChatFileLeftHolder.java
+ com.hec.bluetooth.Bean.ChatFileLeftHolder
+com/hec/bluetooth/Activity/ChatActivity.java
+ com.hec.bluetooth.Activity.ChatActivity
+ com.hec.bluetooth.Activity.ChatActivity$1
+ com.hec.bluetooth.Activity.ChatActivity$1$1
+ com.hec.bluetooth.Activity.ChatActivity$2
+ com.hec.bluetooth.Activity.ChatActivity$3
+ com.hec.bluetooth.Activity.ChatActivity$4
+ com.hec.bluetooth.Activity.ChatActivity$5
+ com.hec.bluetooth.Activity.ChatActivity$6
+ com.hec.bluetooth.Activity.ChatActivity$7
+ com.hec.bluetooth.Activity.ChatActivity$8
+com/hec/bluetooth/SQLite/DBHelper.java
+ com.hec.bluetooth.SQLite.DBHelper
+com/hec/bluetooth/CallBack/BlueToothInterface.java
+ com.hec.bluetooth.CallBack.BlueToothInterface
+com/hec/bluetooth/Bean/BlueToothBean.java
+ com.hec.bluetooth.Bean.BlueToothBean
+com/hec/bluetooth/Service/BluetoothChatService.java
+ com.hec.bluetooth.Service.BluetoothChatService
+ com.hec.bluetooth.Service.BluetoothChatService$1
+ com.hec.bluetooth.Service.BluetoothChatService$AcceptThread
+ com.hec.bluetooth.Service.BluetoothChatService$ConnectThread
+ com.hec.bluetooth.Service.BluetoothChatService$TransferThread
+ com.hec.bluetooth.Service.BluetoothChatService$TransferThread$1
+ com.hec.bluetooth.Service.BluetoothChatService$TransferThread$2
