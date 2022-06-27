@@ -29,7 +29,8 @@
         android:background="@drawable/bg_left"
         android:clickable="true"
         android:orientation="horizontal"
-        android:paddingTop="5dp">
+        android:paddingTop="5dp"
+        android:focusable="true">
 
         <TextView
             android:id="@+id/tv_left"

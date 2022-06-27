@@ -1,5 +1,6 @@
 package com.hec.bluetooth.SQLite;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -30,6 +31,7 @@ public class DBManager {
         }
     }
 
+    @SuppressLint("Range")
     public List<ChatRecord> query(String mac) {
         ArrayList<ChatRecord> list = new ArrayList<>();
         Cursor c = queryTheCursor(mac);
